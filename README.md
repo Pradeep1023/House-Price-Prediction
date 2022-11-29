@@ -9,4 +9,4 @@ Applied 6 different algorithms i.e.,
 4) Ridge Regression
 5) Decision Tree Regressor
 6) Random Forest
-Random Forest is best fit for this dataset as it has r squared score of train 87% and test 85%.
+Polynomial Regression is best fit for this dataset as it has r squared score of train 88% and test 89%.
